@@ -10,7 +10,7 @@
 
 ### 🛠️ Tech Stack:
 
-- **Frontend:** React, Next.js, Tailwind CSS, Ant Design
+- **Frontend:** React, Redux, Next.js, Tailwind CSS, Ant Design
 - **Backend:** Node.js, Express.js
 - **Database:** MongoDB
 - **Tools:** Git, Firebase, Vercel, Postman
