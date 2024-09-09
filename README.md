@@ -19,7 +19,7 @@
 
 - Become proficient in Next.js
 - Contribute to MERN stack projects
-- Enhance problem-solving skills on platforms like Codeforces and Codechef
+-  Secure my first job in the industry to grow professionally and contribute to the company's success
 
 ### 🌐 Socials:
 
