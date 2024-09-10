@@ -25,6 +25,11 @@
 -  Secure my first job in the industry to grow professionally and contribute to the company's success
 
 
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="abedinforhan" /></div>
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
+
+
+
 ### 🌐 Socials:
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdhabibur-hr7) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/habib.tgc) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/habib.tgc)
@@ -36,5 +41,3 @@
 
 
 
-<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="abedinforhan" /></div>
-<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
