@@ -30,15 +30,17 @@
 - **Tools:** Git, Firebase, Vercel, Postman
 
 
+<br clear="both" />
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> 
+<br clear="both" />
+
+
 ### 👨‍💻 2024 Goals
 
 - Become proficient in Next.js
 - Contribute to MERN stack projects
 - Secure my first job in the industry to grow professionally and contribute to the company's success
 
-
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> 
-<br clear="both" />
 
 ### 🌐 Socials:
 
