@@ -36,5 +36,5 @@
 
 
 
-<div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="abedinforhan" /></div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="abedinforhan" /></div>
 <img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
