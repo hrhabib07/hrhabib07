@@ -5,7 +5,7 @@
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hrhabib07&label=Profile%20views&color=0e75b6&style=flat" alt="hrhabib07" /></p>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&width=450&lines=Web+Developer;MERN+Stack+Developer;Next.js+Enthusiast" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=38C2FF&center=true&vCenter=true&width=435&lines=Web+Developer;MERN+Stack+Developer;Next.js+Enthusiast" alt="Typing SVG" /></a>
 </div>
 
 ### 🛠️ Tech Stack:
