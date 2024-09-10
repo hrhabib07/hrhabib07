@@ -1,5 +1,7 @@
 <div align="center">
   <h2>Welcome to Md Habibur Rahman's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
+  <h3 align="center">A passionate MERN stack developer from Sylhet, Bangladesh. </h3>
+
 </div>
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=hrhabib07&label=Profile%20views&color=0e75b6&style=flat" alt="hrhabib07" /></p>
@@ -35,4 +37,4 @@
 
 
 <div><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="abedinforhan" /></div>
-
+<img align="right" alt="Coding" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
