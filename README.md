@@ -1,9 +1,7 @@
 <div align="center">
   <h2>Welcome to Md Habibur Rahman's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
-  <h3>A passionate MERN stack developer from Sylhet, Bangladesh.</h3>
 </div>
 
----
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hrhabib07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -15,7 +13,7 @@
   </a>
 </div>
 
----
+
 
 ### 🛠️ Tech Stack
 
@@ -24,7 +22,6 @@
 - **Database:** MongoDB
 - **Tools:** Git, Firebase, Vercel, Postman
 
----
 
 ### 👨‍💻 2024 Goals
 
@@ -32,7 +29,6 @@
 - Contribute to MERN stack projects
 - Secure my first job in the industry to grow professionally and contribute to the company's success
 
----
 
 <div align="center">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
@@ -41,7 +37,6 @@
 
 <br clear="both" />
 
----
 
 ### 🌐 Socials
 
@@ -49,7 +44,7 @@
 - [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/habib.tgc) 
 - [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/habib.tgc)
 
----
+
 
 ### 📧 Contact Me
 
