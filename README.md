@@ -30,10 +30,11 @@
 - Secure my first job in the industry to grow professionally and contribute to the company's success
 
 
-<div align="center">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img align="right" alt="Coding GIF" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
+<div align="center" style="display: flex; justify-content: center; align-items: center; flex-direction: column;">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img alt="Coding GIF" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
 </div>
+
 
 <br clear="both" />
 
