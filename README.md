@@ -14,6 +14,13 @@
 </div>
 
 
+<div >
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+  <img alt="Coding GIF" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
+</div>
+
+<br clear="both" />
+
 
 ### 🛠️ Tech Stack
 
@@ -31,12 +38,7 @@
 
 
   
-<div >
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-  <img alt="Coding GIF" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
-</div>
 
-<br clear="both" />
 
 
 ### 🌐 Socials:
@@ -49,6 +51,3 @@
 
 
 
-### 📧 Contact Me
-
-- **Email:** [dev.mdhabibur@gmail.com](mailto:dev.mdhabibur@gmail.com)
