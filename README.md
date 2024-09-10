@@ -7,6 +7,7 @@
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=38C2FF&center=true&vCenter=true&width=435&lines=Web+Developer;MERN+Stack+Developer;Next.js+Enthusiast" alt="Typing SVG" /></a>
 </div>
+<div><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="abedinforhan" /></div>
 
 ### 🛠️ Tech Stack:
 
@@ -22,7 +23,7 @@
 -  Secure my first job in the industry to grow professionally and contribute to the company's success
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="abedinforhan" /></p>
+
 
 ### 🌐 Socials:
 
