@@ -3,6 +3,8 @@
   <h3>A passionate MERN stack developer from Sylhet, Bangladesh.</h3>
 </div>
 
+---
+
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hrhabib07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -13,7 +15,7 @@
   </a>
 </div>
 
---
+---
 
 ### 🛠️ Tech Stack
 
