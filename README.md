@@ -9,6 +9,13 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=38C2FF&center=true&vCenter=true&width=435&lines=Web+Developer;MERN+Stack+Developer;Next.js+Enthusiast;Typing+Speed:+60+WPM" alt="Typing SVG" />
+  </a>
+</div>
+
+
+<div align="center">
+  <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=38C2FF&center=true&vCenter=true&width=435&lines=Web+Developer;MERN+Stack+Developer;Next.js+Enthusiast" alt="Typing SVG" />
   </a>
 </div>
