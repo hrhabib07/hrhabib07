@@ -14,13 +14,9 @@
 </div>
 
 
-<div >
- 
+<div > 
   <img align="right" alt="Coding GIF" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
 </div>
-
-
-
 
 ### 🛠️ Tech Stack
 
@@ -29,25 +25,17 @@
 - **Database:** MongoDB
 - **Tools:** Git, Firebase, Vercel, Postman
 
-
-
 ### 👨‍💻 2024 Goals
 
 - Become proficient in Next.js
 - Contribute to MERN stack projects
 - Secure my first job in the industry to grow professionally and contribute to the company's success
 
-
-### 🌐 Socials:
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdhabibur-hr7) 
-
-<br clear="both" />
-
 <br clear="both" />
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&show_icons=true&locale=en&layout=compact" alt="Top Languages" /> 
 <br clear="both" />
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdhabibur-hr7) 
 
 
 
