@@ -12,12 +12,11 @@
   </a>
 </div>
 
-
+<br clear="both" />
 <div > 
   <img align="right" alt="Coding GIF" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
 </div>
 
-<br clear="both" />
 ### 🛠️ Tech Stack
 
 - **Frontend:** React, Redux, Next.js, Tailwind CSS, Ant Design
