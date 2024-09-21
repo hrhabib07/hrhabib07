@@ -2,7 +2,6 @@
   <h2>Welcome to Md Habibur Rahman's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 </div>
 
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=hrhabib07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
@@ -13,11 +12,13 @@
   </a>
 </div>
 
+<br clear="both" />
 
 <div > 
   <img align="right" alt="Coding GIF" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
 </div>
 
+<br clear="both" />
 ### 🛠️ Tech Stack
 
 - **Frontend:** React, Redux, Next.js, Tailwind CSS, Ant Design
