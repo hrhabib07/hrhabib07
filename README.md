@@ -38,7 +38,7 @@
 
 
 
-- **Recent Project:** [Sports Booking Platform (Frontend)](https://sport-booking-facility-fronted.vercel.app/)
+- **Recent Full stack Project:** [Sports Booking Platform(MERN)](https://sport-booking-facility-fronted.vercel.app/)
 
 
 
