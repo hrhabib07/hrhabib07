@@ -24,7 +24,7 @@
 - **Database:** MongoDB
 - **Tools:** Git, Firebase, Vercel, Postman
 
-### Recent Project: Sports Facility Booking Platform
+### 💻 Recent Project: Sports Facility Booking Platform
 
 **Full Stack Project**  
 **Technologies:** React, Redux, Tailwind CSS, Ant Design, MongoDB, Mongoose, Express.js, Node.js
