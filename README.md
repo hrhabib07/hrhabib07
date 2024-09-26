@@ -24,6 +24,19 @@
 - **Database:** MongoDB
 - **Tools:** Git, Firebase, Vercel, Postman
 
+### Recent Project: Sports Facility Booking Platform
+
+**Full Stack Project**  
+**Technologies:** React, Redux, Tailwind CSS, Ant Design, MongoDB, Mongoose, Express.js, Node.js
+
+A platform where users can book indoor sports fields on an hourly basis. Key features include facility search, selection, and booking. Admins can manage facilities by creating, updating, or deleting them.
+
+- **Live Demo:** [Sports Booking Platform (Frontend)](https://sport-booking-facility-fronted.vercel.app/)
+- **Frontend Code:** [GitHub - Frontend](https://github.com/hrhabib07/sports-booking-facility-frontend)
+- **Backend Code:** [GitHub - Backend](https://github.com/hrhabib07/sports-booking-facility-frontend)
+- **Backend Live:** [Backend Demo](https://sports-facility-booking-platform-rho.vercel.app/)
+
+
 ### 👨‍💻 2024 Goals
 
 - Become proficient in Next.js
