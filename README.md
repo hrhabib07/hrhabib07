@@ -41,27 +41,30 @@
       <th>Next 5 Years Goals</th>
       <th>Long-Term Goals</th>
     </tr>
-    <tr>
-      <td> 
-        - Proficient in Next.js<br />
-        - Contribute to MERN projects<br />
-        - Secure first job and grow professionally
-      </td>
-      <td>
-        - Graduate in CSE<br />
-        - Develop problem-solving skills<br />
-        - Become a full-stack developer<br />
-        - Work in a visionary company<br />
-        - Uphold honesty and transparency
-      </td>
-      <td>
-        - Be in top 1% of my field<br />
-        - Lead with my ikigai<br />
-        - Contribute to society<br />
-        - Be honest and transparent
-      </td>
-    </tr>
-  </table>
+   <tr>
+  <td> 
+    - Reading more books than 2023 ✅<br />
+    - Building better atomic habits ✅<br />
+    - Learning MERN stack to start a job ✅<br />
+    - Creating industry standard MERN projects ✅<br />
+    - Secure first job and grow professionally 🔃
+  </td>
+  <td>
+    - Graduate in CSE<br />
+    - Work in a visionary company<br />
+    - Become a full-stack developer<br />
+    - Develop problem-solving skills<br />
+    - Mastering data structures and algorithms
+  </td>
+  <td>
+    - Be in top 1% of my field<br />
+    - Lead with my ikigai<br />
+    - Contribute to society<br />
+    - Be honest and transparent<br />
+    - Have a meaningful and happy family life
+  </td>
+</tr>
+</table>
 </div>
 
 
