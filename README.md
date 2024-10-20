@@ -37,15 +37,15 @@
   <h3>🎯 My Mission & Vision</h3>
   <table>
     <tr>
-      <th>2024 Goals</th>
-      <th>Next 5 Years Goals</th>
-      <th>Long-Term Goals</th>
+      <th>Short-Term Goals: 2024 </th>
+      <th>Mid-Term Goals: Next 5 Years </th>
+      <th>Long-Term Goals: Next 10 Years</th>
     </tr>
    <tr>
   <td> 
     - Reading more books than 2023 ✅<br />
-    - Building better atomic habits ✅<br />
-    - Learning MERN stack to start a job ✅<br />
+    - Building better atomic habits than 2023 ✅<br />
+    - Learning MERN stack to start my first job ✅<br />
     - Creating industry standard MERN projects ✅<br />
     - Secure first job and grow professionally 🔃
   </td>
