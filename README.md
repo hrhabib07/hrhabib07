@@ -31,6 +31,29 @@
 - Contribute to MERN stack projects
 - Secure my first job in the industry to grow professionally and contribute to the company's success
 
+  ### 🌱 Next 5 Years Goals
+
+- Complete my graduation in CSE
+- Become a skilled problem solver with programming languages
+- Become a full-stack developer and contribute to my workplace
+- Work with a visionary company where I can grow, learn, and implement my ideas
+- Maintain honesty and transparency in all aspects
+
+### 🌟 Long-Term Goals
+
+- Be among the globally top 1% in my field or industry
+- Lead a meaningful life by working with my ikigai
+- Contribute back to society
+- Be honest and transparent about everything
+
+### ⚡ Productive Habits
+
+- Reading self-development books regularly
+- Being an early riser and prioritizing proper sleep
+- Staying health-conscious
+- Practicing productive time management
+- Maintaining consistency in everything I do
+
 
 ### 💻 My Recent Projects
 
