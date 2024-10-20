@@ -45,8 +45,8 @@
   <td> 
     ✅ Reading more books than 2023<br />
     ✅ Building better atomic habits than 2023<br />
-    ✅ Learning MERN stack to start my first job<br />
-    ✅ Creating industry standard MERN projects<br />
+    ✅ Learning MERN stack to start a job<br />
+    ✅ Creating industry level MERN projects<br />
     🔃 Secure first job and grow professionally 
   </td>
   <td>
