@@ -24,28 +24,6 @@
 - **Database:** MongoDB
 - **Tools:** Git, Firebase, Vercel, Postman
 
-
-### 👨‍💻 2024 Goals
-
-- Become proficient in Next.js
-- Contribute to MERN stack projects
-- Secure my first job in the industry to grow professionally and contribute to the company's success
-
-  ### 🌱 Next 5 Years Goals
-
-- Complete my graduation in CSE
-- Become a skilled problem solver with programming languages
-- Become a full-stack developer and contribute to my workplace
-- Work with a visionary company where I can grow, learn, and implement my ideas
-- Maintain honesty and transparency in all aspects
-
-### 🌟 Long-Term Goals
-
-- Be among the globally top 1% in my field or industry
-- Lead a meaningful life by working with my ikigai
-- Contribute back to society
-- Be honest and transparent about everything
-
 ### ⚡ Productive Habits
 
 - Reading self-development books regularly
@@ -53,6 +31,38 @@
 - Staying health-conscious
 - Practicing productive time management
 - Maintaining consistency in everything I do
+
+
+<div align="left">
+  <h3>🎯 My Mission & Vision</h3>
+  <table>
+    <tr>
+      <th>2024 Goals</th>
+      <th>Next 5 Years Goals</th>
+      <th>Long-Term Goals</th>
+    </tr>
+    <tr>
+      <td> 
+        - Proficient in Next.js<br />
+        - Contribute to MERN projects<br />
+        - Secure first job and grow professionally
+      </td>
+      <td>
+        - Graduate in CSE<br />
+        - Develop problem-solving skills<br />
+        - Become a full-stack developer<br />
+        - Work in a visionary company<br />
+        - Uphold honesty and transparency
+      </td>
+      <td>
+        - Be in top 1% of my field<br />
+        - Lead with my ikigai<br />
+        - Contribute to society<br />
+        - Be honest and transparent
+      </td>
+    </tr>
+  </table>
+</div>
 
 
 ### 💻 My Recent Projects
