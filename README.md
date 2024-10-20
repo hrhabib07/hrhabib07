@@ -19,8 +19,8 @@
 
 ### 🛠️ Tech Stack
 
-- **Frontend:** React, Redux, Next.js, Tailwind CSS, Ant Design
-- **Backend:** Node.js, Express.js
+- **Frontend:** Next.js, React, Redux, Tailwind CSS, Ant Design, shadcn, nextUi
+- **Backend:** Node.js, Express.js, mongoose, typeScript
 - **Database:** MongoDB
 - **Tools:** Git, Firebase, Vercel, Postman
 
