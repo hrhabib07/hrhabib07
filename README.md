@@ -32,9 +32,8 @@
 - Secure my first job in the industry to grow professionally and contribute to the company's success
 
 
-### 💻 My projects
+### 💻 My Recent Projects
 
-- **My Portfolio:** [MD HABIBUR RAHMAN portfolio](https://md-habibur-hr7-portfolio.vercel.app/)
 - **Recent Full stack Project With Nextjs:** [RescipeNest - mini social media app (nextjs + MERN)](https://recipe-nest-client.vercel.app/)
 - **Recent Full stack Project with react js & Redux:** [SportsLine - Sports Booking Platform(MERN stack) ](https://sport-booking-facility-fronted.vercel.app/)
 
@@ -43,8 +42,11 @@
 <br clear="both" />
 <br clear="both" />
 
+
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdhabibur.hr7@gmail.com) 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdhabibur-hr7)
+[![Portfolio](https://img.shields.io/badge/Portfolio-%23A020F0.svg?logo=About.me&logoColor=white)](https://md-habibur-hr7-portfolio.vercel.app/)
+
 
 
 
