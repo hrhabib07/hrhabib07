@@ -43,11 +43,11 @@
     </tr>
    <tr>
   <td> 
-    - Reading more books than 2023 ✅<br />
-    - Building better atomic habits than 2023 ✅<br />
-    - Learning MERN stack to start my first job ✅<br />
-    - Creating industry standard MERN projects ✅<br />
-    - Secure first job and grow professionally 🔃
+    ✅ Reading more books than 2023<br />
+    ✅ Building better atomic habits than 2023<br />
+    ✅ Learning MERN stack to start my first job<br />
+    ✅ Creating industry standard MERN projects<br />
+    🔃 Secure first job and grow professionally 
   </td>
   <td>
     - Graduate in CSE<br />
