@@ -59,7 +59,7 @@
      <td>
        🔃 Be in the top 1% of my field<br />
        🔃 Start my own company<br />
-       🔃 Be honest and transparent<br />
+       ✅ Be honest and transparent<br />
        🔃 Lead with my ikigai<br /> 
        🔃 Have a meaningful and happy family life
      </td>
