@@ -34,38 +34,39 @@
 
 
 <div align="left">
-  <h3>🎯 My Mission & Vision</h3>
+  <h3>My Mission & Vision</h3>
   <table>
     <tr>
       <th>Short-Term Goals: 2024 </th>
       <th>Mid-Term Goals: Next 5 Years </th>
       <th>Long-Term Goals: Next 10 Years</th>
     </tr>
-   <tr>
-     <td> 
-       ✅ Reading more books than 2023<br />
-       ✅ Building better habits than 2023<br />
-       ✅ Learning MERN stack to start a job<br />
-       ✅ Creating industry level MERN projects<br />
-       🔃 Secure first job and grow professionally 
-     </td>
-     <td>
-       🔃 Solving 600+ programming problems yearly<br />
-       🔃 Mastering data structures and algorithms<br />
-       🔃 Playing ICPC world final<br />
-       🔃 Becoming a full-stack developer<br />
-       🔃 Graduating in CSE<br />
-     </td>
-     <td>
-       🔃 Be in the top 1% of my field<br />
-       🔃 Start my own company<br />
-       ✅ Be honest and transparent<br />
-       🔃 Lead with my ikigai<br /> 
-       🔃 Have a meaningful and happy family life
-     </td>
-   </tr>
+    <tr>
+      <td> 
+        - Reading more books than 2023<br />
+        - Building better habits than 2023<br />
+        - Learning MERN stack to start a job<br />
+        - Creating industry-level MERN projects<br />
+        - Secure first job and grow professionally 
+      </td>
+      <td>
+        - Solving 600+ programming problems yearly<br />
+        - Mastering data structures and algorithms<br />
+        - Playing ICPC world final<br />
+        - Becoming a full-stack developer<br />
+        - Graduating in CSE<br />
+      </td>
+      <td>
+        - Be in the top 1% of my field<br />
+        - Start my own company<br />
+        - Be honest and transparent<br />
+        - Lead with my ikigai<br /> 
+        - Have a meaningful and happy family life
+      </td>
+    </tr>
   </table>
 </div>
+
 
 
 
