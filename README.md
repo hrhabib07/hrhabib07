@@ -1,3 +1,7 @@
+<div style="display: flex; justify-content: center; align-items: center; height: 100vh; background: linear-gradient(to bottom, #000000, #434343); margin-left: 20px;">
+    <img src="https://github.com/hrhabib07/hrhabib07/blob/main/mern.jpg" alt="Description of Image" width="100%" />
+</div>
+
 <div align="center">
   <h2>Welcome to Md Habibur Rahman's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 </div>
