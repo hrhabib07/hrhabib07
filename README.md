@@ -36,28 +36,16 @@
   </a>
 </p>
 
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5% valign="bottom"> Github Stats
 
-<div>
-  <div>
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=hrhabib07&theme=github_dark" width="33%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=hrhabib07&theme=github_dark" width="33%">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hrhabib07&theme=github_dark&utcOffset=8" width="33%">
-  </div>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hrhabib07&bg_color=1a1b27&color=aa82d9&line=628edb&point=64bfaf&area=true&hide_border=true)(https://github.com/hrhabib07/github-readme-activity-graph)">
+## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5%> Current Stats
 
-  <h3>💻 GitHub Profile Stats</h3>
+<br />
+<p align="center">
+  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=hrhabib07&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
+</p>
 
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="hrhabib07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrhabib07&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px" />
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="hrhabib07's Top Languages" height="230px" />
-    <br />
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</div>
+
 
 ### 💻 My Recent Projects
 
