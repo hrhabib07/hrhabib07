@@ -31,13 +31,6 @@
 - Practicing productive time management
 - Maintaining consistency in everything I do
 
-<b>&#128200; Competitive Programming</b>
-<br />
-<p float="left">
-    <img height="230px" src="https://raw.githubusercontent.com/hrhabib07/ct-stats/main/output/light_card.svg" alt="Statistics"/>
-</p>
-<br/>
-<br/>
 
 
 <h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
@@ -105,10 +98,23 @@
     </tr>
   </table>
 </div>
-
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mdhabibur.hr7@gmail.com) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mdhabibur-hr7)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23A020F0.svg?logo=About.me&logoColor=white)](https://md-habibur-hr7-portfolio.vercel.app/)
+<b>Connect with me:</b>
+<br/>
+<a href="https://www.linkedin.com/in/mdhabibur-hr7/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="mailto:dev.mdhabibur@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+<a href="https://md-habibur-hr7-portfolio.vercel.app/" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-%23A020F0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+</a>
+<a href="https://codeforces.com/profile/Muhammad_Habibur_Rahman" target="_blank">
+  <img src="https://img.shields.io/badge/Codeforces-1f8dd6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+</a>
+<a href="https://www.facebook.com/habib.tgc/" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+</a>
 
 
 
