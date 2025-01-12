@@ -66,7 +66,7 @@
   <h3>My Mission & Vision</h3>
   <table>
     <tr>
-      <th>Short-Term Goals: 2024 </th>
+      <th>Short-Term Goals: 2025 </th>
       <th>Mid-Term Goals: Next 5 Years </th>
       <th>Long-Term Goals: Next 10 Years</th>
     </tr>
