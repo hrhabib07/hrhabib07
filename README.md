@@ -19,14 +19,14 @@
 </div>
 
 
+### ⚡ Productive Habits  
+*"We are what we repeatedly do." – Aristotle*  
 
-### ⚡ Productive Habits
-
-- Reading self-development books regularly
-- Being an early riser and prioritizing proper sleep
-- Staying health-conscious
-- Practicing productive time management
-- Maintaining consistency in everything I do
+- 📚 Reading self-development books regularly  
+- 🌅 Being an early riser and prioritizing proper sleep  
+- 🏋️ Staying health-conscious  
+- ⏳ Practicing productive time management  
+- 🔁 Maintaining consistency in everything I do  
 
 
 
