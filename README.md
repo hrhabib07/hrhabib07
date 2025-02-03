@@ -66,17 +66,18 @@
   <h3>My Mission & Vision</h3>
   <table>
     <tr>
-      <th>Short-Term Goals: 2024 </th>
+      <th>Short-Term Goals: 2025 </th>
       <th>Mid-Term Goals: Next 5 Years </th>
       <th>Long-Term Goals: Next 10 Years</th>
     </tr>
     <tr>
-      <td> 
-        - Reading more books than 2023<br />
-        - Building better habits than 2023<br />
-        - Learning MERN stack to start a job<br />
-        - Creating industry-level MERN projects<br />
-        - Secure first job and grow professionally 
+        <td> 
+        - Achieve my financial goal<br />
+        - Get married<br />
+        - Improve problem-solving & ICPC prep (2027)<br />
+        - Explore full-stack development with SQL<br />
+        - Dive deeper into data science<br />
+        - Impact more lives through teaching  
       </td>
       <td>
         - Solving 600+ programming problems yearly<br />
