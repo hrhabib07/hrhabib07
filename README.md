@@ -115,28 +115,4 @@
 </a>
 
 
-<h3>💻 GitHub Profile Stats</h3>
-
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=hrhabib07&show_icons=true&count_private=true&theme=tokyonight" 
-      height="180"
-      alt="Habib's GitHub Stats"
-    />
-  </a>
-
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=hrhabib07&layout=compact&langs_count=8&theme=tokyonight" 
-    height="180"
-    alt="Top Languages"
-  />
-</p>
-
-<p align="center">
-  <b>Note:</b> Top languages is only a metric of the languages my public repositories consist of and does not reflect experience or skill level.
-</p>
-
-
-
 
