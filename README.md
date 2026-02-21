@@ -125,12 +125,12 @@
 </p>
 
 <p align="center">
+  <img src="https://ghchart.rshah.org/hrhabib07" />
+</p>
+
+<p align="center">
   <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hrhabib07&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" 
-    height="165"
-  />
-  <img 
-    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hrhabib07&layout=compact&theme=default&hide_border=true" 
+    src="https://github-readme-streak-stats.herokuapp.com/?user=hrhabib07&theme=transparent&hide_border=true" 
     height="165"
   />
 </p>
