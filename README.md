@@ -123,3 +123,14 @@
 <p align="center">
   <i>Building the future of AI-powered education</i>
 </p>
+
+<p align="center">
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=hrhabib07&show_icons=true&theme=default&hide_border=true&include_all_commits=true&count_private=true" 
+    height="165"
+  />
+  <img 
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=hrhabib07&layout=compact&theme=default&hide_border=true" 
+    height="165"
+  />
+</p>
