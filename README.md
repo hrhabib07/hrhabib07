@@ -1,118 +1,125 @@
-
-<div align="center">
-  <h2>Welcome to Md Habibur Rahman's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
-</div>
+<!-- HEADER -->
+<h1 align="center">Habib</h1>
+<h3 align="center">AI/ML Engineer • Full Stack Developer • AI Product Builder</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hrhabib07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
+  Building production-grade AI systems and scalable platforms
 </p>
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=38C2FF&center=true&vCenter=true&width=435&lines=Web+Developer;MERN+Stack+Developer;Next.js+Enthusiast" alt="Typing SVG" />
-  </a>
-</div>
-
-<br clear="both" />
-<div > 
-  <img align="right" alt="Coding GIF" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
-</div>
-
-
-### ⚡ Productive Habits  
-*"We are what we repeatedly do." – Aristotle*  
-
-- 📚 Reading self-development books regularly  
-- 🌅 Being an early riser and prioritizing proper sleep  
-- 🏋️ Staying health-conscious  
-- ⏳ Practicing productive time management  
-- 🔁 Maintaining consistency in everything I do  
-
-
-
-<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
-         width=32px> Skills</h3>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,nodejs,express,mongodb,git,firebase,vercel,postman,html,css,javascript,typescript" />
-  </a>
-</p>
-
-
-
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5%> Current Stats
-<br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=hrhabib07&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="hrhabib07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrhabib07&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px" />
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="hrhabib07's Top Languages" height="230px" />
-    <br />
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</div>
-
-
-### 💻 My Recent Projects
-
-- **Recent Full stack Project With Nextjs:** [RescipeNest - mini social media app (nextjs + MERN)](https://recipe-nest-client.vercel.app/)
-- **Recent Full stack Project with react js & Redux:** [SportsLine - Sports Booking Platform(MERN stack) ](https://sport-booking-facility-fronted.vercel.app/)
-
-<div align="left">
-  <h3>My Mission & Vision</h3>
-  <table>
-    <tr>
-      <th>Short-Term Goals: 2025 </th>
-      <th>Mid-Term Goals: Next 5 Years </th>
-      <th>Long-Term Goals: Next 10 Years</th>
-    </tr>
-    <tr>
-        <td> 
-        - Achieve my financial goal<br />
-        - Get married<br />
-        - Improve problem-solving & ICPC prep (2027)<br />
-        - Explore full-stack development with SQL<br />
-        - Dive deeper into data science<br />
-        - Impact more lives through teaching  
-      </td>
-      <td>
-        - Solving 600+ programming problems yearly<br />
-        - Mastering data structures and algorithms<br />
-        - Playing ICPC world final<br />
-        - Becoming a full-stack developer<br />
-        - Graduating in CSE<br />
-      </td>
-      <td>
-        - Be in the top 1% of my field<br />
-        - Start my own company<br />
-        - Be honest and transparent<br />
-        - Lead with my ikigai<br /> 
-        - Have a meaningful and happy family life
-      </td>
-    </tr>
-  </table>
-</div>
-<b>Connect with me:</b>
 <br/>
+
+<!-- FOCUS AREAS -->
+<h2>Focus Areas</h2>
+
+<ul>
+  <li>Machine Learning Systems</li>
+  <li>Deep Learning</li>
+  <li>LLM Applications</li>
+  <li>Scalable Next.js + TypeScript Platforms</li>
+  <li>Backend Architecture & Distributed Systems</li>
+</ul>
+
+<br/>
+
+<!-- CURRENT PROJECT -->
+<h2>Current Project</h2>
+
+<ul>
+  <li><strong>AI-powered IELTS Evaluation Platform</strong><br/>
+  LLM-based system for automated evaluation, feedback, and scoring</li>
+</ul>
+
+<br/>
+
+<!-- TECH STACK -->
+<h2>Tech Stack</h2>
+
+<table>
+<tr>
+<td><strong>Languages</strong></td>
+<td>Python • TypeScript</td>
+</tr>
+
+<tr>
+<td><strong>AI / ML</strong></td>
+<td>PyTorch • TensorFlow • Transformers</td>
+</tr>
+
+<tr>
+<td><strong>Frontend</strong></td>
+<td>Next.js • TailwindCSS</td>
+</tr>
+
+<tr>
+<td><strong>Backend</strong></td>
+<td>Node.js • Express • Scalable Architecture</td>
+</tr>
+
+<tr>
+<td><strong>Databases</strong></td>
+<td>MongoDB • PostgreSQL</td>
+</tr>
+
+<tr>
+<td><strong>Systems</strong></td>
+<td>REST APIs • Distributed Systems • Production Infrastructure</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- FEATURED PROJECTS -->
+<h2>Featured Projects</h2>
+
+<ul>
+  <li><strong>IELTS AI Evaluation Engine</strong> — Automated scoring using LLM</li>
+  <li><strong>LLM-powered Feedback System</strong> — Intelligent feedback generation</li>
+  <li><strong>Scalable Test Engine</strong> — Production-ready testing infrastructure</li>
+</ul>
+
+<br/>
+
+<!-- GOALS -->
+<h2>Mission</h2>
+
+<ul>
+  <li>Build production-grade AI products</li>
+  <li>Advance AI-powered education systems</li>
+  <li>Contribute to impactful open source</li>
+</ul>
+
+<br/>
+
+<!-- CONNECT -->
+<h2>Connect with Me</h2>
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/mdhabibur-hr7/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
+
 <a href="mailto:dev.mdhabibur@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+
 <a href="https://md-habibur-hr7-portfolio.vercel.app/" target="_blank">
-  <img src="https://img.shields.io/badge/Portfolio-%23A020F0?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio"/>
+  <img src="https://img.shields.io/badge/Portfolio-6A0DAD?style=for-the-badge&logo=About.me&logoColor=white"/>
 </a>
+
 <a href="https://codeforces.com/profile/Muhammad_Habibur_Rahman" target="_blank">
-  <img src="https://img.shields.io/badge/Codeforces-1f8dd6?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces"/>
+  <img src="https://img.shields.io/badge/Codeforces-1F8DD6?style=for-the-badge&logo=codeforces&logoColor=white"/>
 </a>
+
 <a href="https://www.facebook.com/habib.tgc/" target="_blank">
-  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
 </a>
 
+</p>
 
+<br/>
 
+<!-- FOOTER -->
+<p align="center">
+  <i>Building the future of AI-powered education</i>
+</p>
