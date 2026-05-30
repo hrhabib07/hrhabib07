@@ -1,103 +1,76 @@
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=hrhabib07&label=Profile%20views&color=38C2FF&style=flat-square" alt="Profile Views" />
+</p>
 
 <div align="center">
   <h2>Welcome to Md Habibur Rahman's Profile! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></h2>
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=hrhabib07&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
-
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=38C2FF&center=true&vCenter=true&width=435&lines=Web+Developer;MERN+Stack+Developer;Next.js+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&color=38C2FF&center=true&vCenter=true&width=500&lines=Problem+Solver;Educator;EdTech+Founder;Full+Stack+Developer" alt="Typing SVG" />
   </a>
 </div>
+
+<br />
+
+<div> 
+  <img align="right" alt="Coding GIF" width="380" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
+</div>
+
+### 🎯 The Mission
+
+I do not build software just to write code. I am an educator, builder, and problem solver utilizing technology as a lever to create systemic, life changing impact. 
+
+As a full stack developer skilled in the MERN stack, Next.js, and TypeScript, I merge deep English language pedagogy with scalable software engineering. I bridge the gap between human potential and interactive learning, driven by the belief that technology should serve a higher purpose: uplifting minds, building communities, and honoring core values.
+
+---
+
+### 🚀 What I'm Building
+
+* 🌐 **[Gamlish](https://gamlish.com):** A paradigm shift in language acquisition. We are engineering a gamified, highly interactive English learning ecosystem designed to dismantle traditional educational barriers and make high quality instruction engaging, accessible, and affordable at scale.
+
+---
+
+### 🌱 Generational Vision & Ecosystem
+
+My work is deeply anchored in Islamic values and an absolute commitment to local community self-reliance and uplifting my people. True impact is holistic, spanning from the mind to the soil. I am architecting a multi-layered, self-sustaining ecosystem focused on two core areas::
+
+* 🧒 **Child Empowerment & Wellbeing:** Pioneering wholesome, values-aligned digital spaces, next generation learning tools, and enriching real world entertainment zones where children can thrive safely.
+* 🌾 **Community Self-Reliance:** Developing tech-driven, resilient local agriculture and livestock infrastructure for rice and meat production. My goal is absolute sustainability, reducing external dependencies to safeguard and feed my family and community locally.
+
+---
+
+### 🛠️ The Innovation Stack
+
+<nobr>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
+</nobr>
+
+* **Core Focus:** Educational Technology (EdTech), Gamification Mechanics, Hyper-Local Sustainability Systems, User-Centric Product Architecture
+
+---
+
+### ⚡ Founder's Discipline & Habits
+*"We are what we repeatedly do. Excellence, then, is not an act, but a habit." — Aristotle*  
+
+* 📚 **Continuous Growth:** Compounding knowledge through non-fiction and self-development frameworks.
+* 🌅 **The Early Edge:** Rising early, mastering circadian alignment, and protecting mental clarity.
+* ⏳ **Ruthless Execution:** Deep work scheduling and high-velocity daily productivity tracking.
+* 🔁 **Uncompromising Consistency:** Showing up every single day to push the vision forward.
 
 <br clear="both" />
-<div > 
-  <img align="right" alt="Coding GIF" width="400" src="https://64.media.tumblr.com/2d0af9c90d1b1107313cc20bda01548a/tumblr_outwxnanpp1u79o2lo1_1280.gif">
-</div>
-
-
-### ⚡ Productive Habits  
-*"We are what we repeatedly do." – Aristotle*  
-
-- 📚 Reading self-development books regularly  
-- 🌅 Being an early riser and prioritizing proper sleep  
-- 🏋️ Staying health-conscious  
-- ⏳ Practicing productive time management  
-- 🔁 Maintaining consistency in everything I do  
-
-
-
-<h3><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif"
-         width=32px> Skills</h3>
-<br>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,redux,tailwind,nodejs,express,mongodb,git,firebase,vercel,postman,html,css,javascript,typescript" />
-  </a>
-</p>
-
-
-
-## <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzFhYzJkMmQ2MWQ3ZGY3MDhjZTE3MDI2Mzk3NzE1OWQyZTRlMmYwMCZjdD1z/iY8CRBdQXODJSCERIr/giphy.gif" width=5%> Current Stats
 <br />
-<p align="center">
-  <img width="60%" src="https://github-readme-streak-stats.herokuapp.com?user=hrhabib07&theme=react&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1CF7&sideLabels=00F0FF&currStreakNum=FF1CF7&ring=FF1CF7&currStreakLabel=FF1CF7&sideNums=00F0FF" />
-</p>
-  <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-      <img alt="hrhabib07's Github Stats" src="https://github-readme-stats.vercel.app/api?username=hrhabib07&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px" />
-    </a>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hrhabib07&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="hrhabib07's Top Languages" height="230px" />
-    <br />
-    <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</div>
 
+### 🤝 Let's Connect
 
-### 💻 My Recent Projects
+Let's collaborate on the future of education, impactful technologies, or community-centric ventures.
 
-- **Recent Full stack Project With Nextjs:** [RescipeNest - mini social media app (nextjs + MERN)](https://recipe-nest-client.vercel.app/)
-- **Recent Full stack Project with react js & Redux:** [SportsLine - Sports Booking Platform(MERN stack) ](https://sport-booking-facility-fronted.vercel.app/)
-
-<div align="left">
-  <h3>My Mission & Vision</h3>
-  <table>
-    <tr>
-      <th>Short-Term Goals: 2025 </th>
-      <th>Mid-Term Goals: Next 5 Years </th>
-      <th>Long-Term Goals: Next 10 Years</th>
-    </tr>
-    <tr>
-        <td> 
-        - Achieve my financial goal<br />
-        - Get married<br />
-        - Improve problem-solving & ICPC prep (2027)<br />
-        - Explore full-stack development with SQL<br />
-        - Dive deeper into data science<br />
-        - Impact more lives through teaching  
-      </td>
-      <td>
-        - Solving 600+ programming problems yearly<br />
-        - Mastering data structures and algorithms<br />
-        - Playing ICPC world final<br />
-        - Becoming a full-stack developer<br />
-        - Graduating in CSE<br />
-      </td>
-      <td>
-        - Be in the top 1% of my field<br />
-        - Start my own company<br />
-        - Be honest and transparent<br />
-        - Lead with my ikigai<br /> 
-        - Have a meaningful and happy family life
-      </td>
-    </tr>
-  </table>
-</div>
-<b>Connect with me:</b>
-<br/>
 <a href="https://www.linkedin.com/in/mdhabibur-hr7/" target="_blank">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
@@ -113,5 +86,3 @@
 <a href="https://www.facebook.com/habib.tgc/" target="_blank">
   <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
 </a>
-
-
